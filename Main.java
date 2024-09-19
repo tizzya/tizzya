@@ -2,6 +2,8 @@
 // 点击装订区域中的 <icon src="AllIcons.Actions.Execute"/> 图标。
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello,World");
+        //TIP 当文本光标位于高亮显示的文本处时按 <shortcut actionId="ShowIntentionActions"/>
+        // 查看 IntelliJ IDEA 建议如何修正。
+        System.out.println("Hello world" );
     }
-    }
+}
